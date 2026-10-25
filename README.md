@@ -69,17 +69,14 @@ I'm **c0mput3rxz**, a senior full-stack engineer from **Southern CA**. I build w
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td colspan="2">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=c0mput3rxz&custom_title=c0mput3rxz%27s%20Contribution%20Graph&theme=tokyo-night&hide_border=true&radius=8"
-        alt="Contribution Graph"
-        style="max-width:100%; display:block;"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=c0mput3rxz&theme=tokyo-night&hide_border=true&border_radius=8" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/14a0ff/c0mput3rxz" alt="Contribution chart" width="100%" />
+</p>
+
 
 ---
 
